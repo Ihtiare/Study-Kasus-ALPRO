@@ -1,0 +1,4 @@
+Harga Satuan		: Rp. 20000
+Banyak Barang		: 2
+Jarak			: 6 KM
+Total Harga		: Rp. 62000
